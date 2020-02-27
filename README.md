@@ -97,6 +97,9 @@ for your installation:
 Ideally you would use it ***before*** launching any other build or installation command
 (eg. `bdist_wheel`).
 
+## Deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 Usage
 -----
